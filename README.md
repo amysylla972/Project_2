@@ -1,18 +1,17 @@
 # Project_2
 
 
-Kai Hall, Amy Sylla, Tatiana Thomas		               JHU-APL-DATA-PT-07-2020-U-C
-
+Kai Hall, Amy Sylla, Tatiana Thomas
 
 
 
 <b><u>ETL Project</u></b>
 <br>
 Due: October 13, 2020
-<br>
+<p>
 <u><i>Proposal:</u></i>
 The purpose of this project is to apply Extract, Transform, and Load (ETL) procedures to eSport and video games sales datasets to prepare them for an analysis of the revenues and earnings and of select, competitive games. This project will culminate in a written report detailing the ETL process. 
-
+</p>
 <p>
 <u><i>Data Sources:</u></i>
 <ul>
