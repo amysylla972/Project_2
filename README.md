@@ -1,7 +1,7 @@
 # Project_2
 
 
-##  Kai Hall, Amy Sylla, Tatiana Thomas		               JHU-APL-DATA-PT-07-2020-U-C
+###  Kai Hall, Amy Sylla, Tatiana Thomas		               JHU-APL-DATA-PT-07-2020-U-C
 
 
 
