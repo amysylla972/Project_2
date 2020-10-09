@@ -7,6 +7,7 @@ Kai Hall, Amy Sylla, Tatiana Thomas		               JHU-APL-DATA-PT-07-2020-U-C
 
 
 <b><u>ETL Project</u></b>
+<br>
 Due: October 13, 2020
 <br>
 <u><i>Proposal:</u></i>
