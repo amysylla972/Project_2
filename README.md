@@ -1,15 +1,15 @@
 # Project_2
 
 <b><u>ETL Project</u></b>
-Due: October 13, 2020
-Kai Hall, Amy Sylla, Tatiana Thomas
+<br>Due: October 13, 2020
+<br>Kai Hall, Amy Sylla, Tatiana Thomas
 
 <p>
-<u><i>Proposal:</u></i>
+  <b><i>Proposal:</i></b>
 The purpose of this project is to apply Extract, Transform, and Load (ETL) procedures to eSport and video games sales datasets to prepare them for an analysis of the revenues and earnings and of select, competitive games. This project will culminate in a written report detailing the ETL process. 
 </p>
 <p>
-<b><i>Data Sources:</b></i>
+  <b><i>Data Sources:</i></b>
 <ul>
   <li>Kaggle.com - eSport Earnings (1998-2020)</li>
   <li>Data.World - Video Games Sales (1983-2017)</li>
@@ -17,7 +17,7 @@ The purpose of this project is to apply Extract, Transform, and Load (ETL) proce
 </ul>
 </p>
 <p>
-<b><i>Data Cleanup and Analysis:</b></i>
+  <b><i>Data Cleanup and Analysis:</i></b>
 <ul>
   <li>Transformations Needed:</li>
   <ul>
@@ -37,7 +37,7 @@ The purpose of this project is to apply Extract, Transform, and Load (ETL) proce
 </ul>
 </p>
 <p>
-  <u><i>Project Report:</i></u>
+  <b><i>Project Report:</i></b>
 <ul>
   <li>Extract:</li>
   <ul>
