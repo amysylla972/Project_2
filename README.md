@@ -2,7 +2,7 @@
 
 <b><u>ETL Project</u></b>
 <br>Due: October 13, 2020
-<br>Kai Hall, Amy Sylla, Tatiana Thomas
+<br>Amy Sylla, Tatiana Thomas
 
 <p>
   <b><i>Proposal:</i></b>
